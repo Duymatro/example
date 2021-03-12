@@ -1,0 +1,8 @@
+.container{
+  box-sizing:border-box;
+  display: inline-block;
+  display:flex;
+  justify-content: center;
+  display: inline-block;
+}
+
